@@ -15,7 +15,7 @@ FSLOUTPUTTYPE=NIFTI_GZ
 
 OS=Linux
 FS_OVERRIDE=0
-SUBJECTS_DIR=/opt/freesurfer/subjects
+SUBJECTS_DIR=/home/madduri/processed
 FSF_OUTPUT_FORMAT=nii.gz
 MNI_DIR=/opt/freesurfer/mni
 LOCAL_DIR=/opt/freesurfer/local
