@@ -14,7 +14,8 @@ FSLWISH=/usr/bin/wish
 FSLOUTPUTTYPE=NIFTI_GZ
 
 OS=Linux
-FS_OVERRIDE=0FS_LICENSE=/home/madduri/freesurfer_license.txt
+FS_OVERRIDE=0
+FS_LICENSE=/home/madduri/freesurfer_license.txt
 FSF_OUTPUT_FORMAT=nii.gz
 MNI_DIR=/opt/freesurfer/mni
 LOCAL_DIR=/opt/freesurfer/local
