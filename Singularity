@@ -3,6 +3,8 @@ From: bids/freesurfer:latest
 
 %environment
 
+SINGULARITY_CACHEDIR=/tmp
+
 FSLDIR=/usr/share/fsl/5.0
 FSLOUTPUTTYPE=NIFTI_GZ
 PATH=/usr/lib/fsl/5.0:$PATH
