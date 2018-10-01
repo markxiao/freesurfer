@@ -15,7 +15,7 @@ FSLOUTPUTTYPE=NIFTI_GZ
 
 OS=Linux
 FS_OVERRIDE=0
-FS_LICENSE=/opt/freesurfer/license.txt
+FS_LICENSE=/opt/freesurfer/subjects/license.txt
 FSF_OUTPUT_FORMAT=nii.gz
 MNI_DIR=/opt/freesurfer/mni
 LOCAL_DIR=/opt/freesurfer/local
